@@ -8,3 +8,7 @@ Where devcon_exe is the path to the devcon executable, which comes with the Wind
 and card_hwid is the card hardware id, which can be read in device manager > network adapters > your card properties > details > Hardware Ids or by using devcon. (Example: PCI\VEN_10EC&DEV_8168&CC_0200, but you actually only need PCI\VEN_10EC).
 
 This workaround is supposed to be ran with high privileges at every login of any user, for example using the Windows built-in Task Scheduler.
+
+
+
+Of course no license whatsoever, do what you want with this.
